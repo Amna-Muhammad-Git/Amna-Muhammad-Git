@@ -1,76 +1,17 @@
-<div align="center">
+# About Me:
+Hi, I’m Amna Muhammad, a Software Engineering undergraduate at NED University of Engineering & Technology with a strong interest in AI, backend systems, and data science. I enjoy building practical applications that combine intelligent features with scalable backend development.<br><br>My work mainly focuses on AI-powered systems, API development, automation tools, and data-driven applications. I’ve worked with technologies like Python, FastAPI, Node.js, OpenAI APIs, PostgreSQL, and MongoDB, and I enjoy exploring areas such as LLM integration, RAG pipelines, and AI automation workflows.
 
-<img src="assets/cat-laptop-simple.gif" width="280" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1a1a2e,100:16213e&amp;height=180&amp;section=header&amp;text=Amna%20Muhammad&amp;fontSize=48&amp;fontColor=00C4CC&amp;fontAlignY=50&amp;desc=Software%20Engineer%20%7C%20AI%20%26%20Backend%20Systems&amp;descAlignY=75&amp;descSize=18&amp;descColor=e0e0e0" />
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amna-muhammad123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadamna54@gmail.com) 
 
-</div>
+# Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Amna-Sarfaraz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Amna-Sarfaraz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amna-Sarfaraz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<table width="100%">
-<tr>
-<td width="65%" valign="middle">
-<br>
+---
 
-Software Engineering undergraduate at NED University of Engineering &amp; Technology, building backend systems and AI-driven applications that solve real problems rather than just demo well.
-
-Most of my work sits at the intersection of API development and applied AI — designing services that stay reliable under real usage, and layering in intelligent features like retrieval-augmented generation and LLM-based automation where they genuinely add value. I care as much about how a system is structured as what it does: clear boundaries, sensible data models, and code that someone else could pick up without a walkthrough.
-
-Right now I'm deepening my work with RAG pipelines and LLM orchestration, and looking for opportunities to apply that in production-grade backend work.
-
-<br>
-</td>
-<td width="35%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b530-2f4c393d0a51.gif" width="100%">
-</td>
-</tr>
-</table>
-
-<br>
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,py,csharp,fastapi,flask,postgres,mongodb,react,docker,git,github,vercel,latex&amp;theme=dark&amp;perline=13" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&amp;logo=fastapi&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square&amp;logo=JSON%20web%20tokens" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/SonarQube-black?style=flat-square&amp;logo=sonarqube&amp;logoColor=4E9BCD" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" />
-
-<br>
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&amp;logo=Matplotlib&amp;logoColor=black" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&amp;logo=Canva&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&amp;logo=render&amp;logoColor=white" />
-
-</div>
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amna-muhammad123&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amna-muhammad123&amp;theme=tokyonight&amp;hide_border=true" width="48%" />
-</div>
-
-<br>
-
-## Let's Connect
-
-<div align="center">
-<a href="https://linkedin.com/in/amna-muhammad123"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-<a href="mailto:mohammadamna54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:16213e,100:1a1a2e&amp;height=100&amp;section=footer" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
