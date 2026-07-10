@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" />
+<img src="assets/cat-laptop-simple.gif" width="280" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1a1a2e,100:16213e&amp;height=180&amp;section=header&amp;text=Amna%20Muhammad&amp;fontSize=48&amp;fontColor=00C4CC&amp;fontAlignY=50&amp;desc=Software%20Engineer%20%7C%20AI%20%26%20Backend%20Systems&amp;descAlignY=75&amp;descSize=18&amp;descColor=e0e0e0" />
 
