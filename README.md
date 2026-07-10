@@ -1,100 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC&height=200&section=header&text=Hi%20There,%20I'm%20Amna%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;AI+%26+Backend+Systems+Enthusiast;Building+RAG+Pipelines+%26+LLM+Apps;FastAPI+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=180&section=header&text=Amna%20Muhammad&fontSize=48&fontColor=00C4CC&fontAlignY=50&desc=Software%20Engineer%20%7C%20AI%20%26%20Backend%20Systems&descAlignY=75&descSize=18&descColor=e0e0e0" />
 
 </div>
 
-<br>
-
-## 🚀 About Me
-
-I'm **Amna Muhammad**, a Software Engineering undergraduate at **NED University of Engineering & Technology**, passionate about AI, backend systems, and data-driven applications.
-
-- 🧠 Currently exploring **LLM integration**, **RAG pipelines**, and **AI automation workflows**
-- ⚙️ Focused on building **AI-powered systems**, **REST APIs**, and **scalable backends**
-- 🛠️ Comfortable across the stack — from data pipelines to production-ready APIs
-- 🌱 Always learning something new in AI engineering and system design
-- 💬 Ask me about **FastAPI**, **OpenAI APIs**, **PostgreSQL**, or **MongoDB**
+<table width="100%">
+<tr>
+<td width="65%" valign="middle">
 
 <br>
 
-## 🧰 Tech Stack
+Software Engineering undergraduate at NED University of Engineering & Technology, building backend systems and AI-driven applications that solve real problems rather than just demo well.
+
+Most of my work sits at the intersection of API development and applied AI — designing services that stay reliable under real usage, and layering in intelligent features like retrieval-augmented generation and LLM-based automation where they genuinely add value. I care as much about how a system is structured as what it does: clear boundaries, sensible data models, and code that someone else could pick up without a walkthrough.
+
+Right now I'm deepening my work with RAG pipelines and LLM orchestration, and looking for opportunities to apply that in production-grade backend work.
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b530-2f4c393d0a51.gif" width="100%">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Tech Stack
 
 <div align="center">
 
-**Languages**
-<br>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-**Backend & APIs**
-<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Databases**
-<br>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**AI / Data Science**
-<br>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Frontend**
-<br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-**Tools & DevOps**
-<br>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-</div>
-
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amna-Sarfaraz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amna-Sarfaraz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=Amna-Sarfaraz&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=cpp,py,csharp,fastapi,flask,postgres,mongodb,react,docker,git,github,vercel,latex&theme=dark&perline=13" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amna-Sarfaraz&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<br>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
 
 </div>
 
 <br>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amna-muhammad123)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadamna54@gmail.com)
+<a href="https://linkedin.com/in/amna-muhammad123"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mohammadamna54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:0077B5&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:1a1a2e&height=100&section=footer" />
 </div>
